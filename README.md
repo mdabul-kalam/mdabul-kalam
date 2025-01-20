@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning react.
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 How to reach me https://x.com/raihan742691
+- 📫 How to reach me https://x.com/abul_kalam_md
 - 😄 Pronouns: Abul Kalam
 
 <!---
